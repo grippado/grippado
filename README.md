@@ -3,5 +3,5 @@
   
 #### 
 <div>
-<img style="width: 500px; max-width: 500px;" src="https://wakatime.com/share/@grippado/894b2966-4ae2-48cf-a3bc-30f525b03fc6.svg" />
+<img style="width: 500px; max-width: 500px;" src="https://wakatime.com/share/@grippado/8355243c-7ef8-44c7-a97e-3bccfcda396c.png" />
 </div>
