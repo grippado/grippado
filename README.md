@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  :technologist:&nbsp;&nbsp;Currently working as a Software Engineering Manager I at <a href="https://pagar.me/">pagar.me</a>&nbsp;&nbsp;:technologist:
+  :technologist:&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Software Engineering Manager I at <a href="https://pagar.me/">pagar.me</a>&nbsp;&nbsp;&nbsp;&nbsp;:technologist:
   <br/>
-  ♥️&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;♥️
+  ♥️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♥️
   <br/>
-  :hammer_and_wrench:&nbsp;&nbsp;Coding since 2007 with 15+ years of experience in web development;&nbsp;&nbsp;:hammer_and_wrench:
+  :hammer_and_wrench:&nbsp;&nbsp;Coding since 2007 with 15+ years of experience in web development&nbsp;&nbsp;:hammer_and_wrench:
   <br/>
-  :octocat:&nbsp;&nbsp;Living in Brazil 🇧🇷 with my cats, Sancho 🐈‍⬛ and Panqueca 🐈&nbsp;&nbsp;:octocat:
+  :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living in Brazil 🇧🇷 with my cats, Sancho 🐈‍⬛ and Panqueca 🐈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
 </p>
 <br/>
 <p align="center">
@@ -38,13 +38,21 @@
   <br/>
   <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&"/>
   <img src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&"/>
   <br/>
+  <img src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat&logoColor=white&textColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white"/>
   <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -52,15 +60,6 @@
   <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
   
 </p>
 </p>
