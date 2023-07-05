@@ -82,6 +82,5 @@
 <hr/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=grippado&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/grippado/grippado?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=grippado&style=for-the-badge&label=Profile Views&color=ff69b4"><img>
 </p>
