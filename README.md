@@ -63,9 +63,8 @@
   
 </p>
 </p>
-
+<!--
 <hr/>
-
 <p align="center">
   <b>:gear: &nbsp;GitHub Statistics</b>
 </p>
@@ -79,6 +78,7 @@
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=grippado&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
+-->
 <hr/>
 
 <p align="center">
