@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  :technologist:&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Software Engineering Manager I at <a href="https://pagar.me/">pagar.me</a>&nbsp;&nbsp;&nbsp;&nbsp;:technologist:
+  👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Software Engineering Manager I at <a href="https://pagar.me/">pagar.me</a>&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🔧
   <br/>
-  ♥️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♥️
+  ♥️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❤️‍🔥
   <br/>
-  :hammer_and_wrench:&nbsp;&nbsp;Coding since 2007 with 15+ years of experience in web development&nbsp;&nbsp;:hammer_and_wrench:
+  🛠️&nbsp;&nbsp;Coding since 2007 with 15+ years of experience in web development&nbsp;&nbsp;&nbsp;⚙️
   <br/>
-  :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living in Brazil 🇧🇷 with my cats, Sancho 🐈‍⬛ and Panqueca 🐈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
+  🐙&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living in Brazil 🇧🇷 with my cats, Sancho 🐈‍⬛ and Panqueca 🐈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱
 </p>
 <br/>
 <p align="center">
