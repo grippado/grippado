@@ -23,71 +23,48 @@
 <hr/>
 
 <p align="center">
-<b>:computer: &nbsp;My tech stack</b>
+  <b>:computer: &nbsp;My tech stack</b>
+    
+  <br/>
   
-<br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <br/>
+    <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&"/>
+    <img src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&"/>
+    <br/>
+    <img src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat&logoColor=white&textColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code"/>
+    <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white"/>
+  </p>
+</p>
 
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <br/>
-  <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&"/>
-  <img src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&"/>
-  <br/>
-  <img src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat&logoColor=white&textColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white"/>
-  
-</p>
-</p>
-<!--
-<hr/>
-<p align="center">
-  <b>:gear: &nbsp;GitHub Statistics</b>
-</p>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grippado&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=grippado&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=grippado&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    </p>
--->
 
 <hr/>
 
   <p align="center">
     <img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
   </p>
-  
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grippado&style=for-the-badge&label=Profile Views&color=ff69b4"><img>
-</p>
