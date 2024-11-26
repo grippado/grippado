@@ -66,5 +66,5 @@
 <hr/>
 
   <p align="center">
-    <img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
+    <a href="https://wakatime.com/@0d60c504-3819-4ce7-94f7-0891e4cc7b8b"><img src="https://wakatime.com/badge/user/0d60c504-3819-4ce7-94f7-0891e4cc7b8b.svg" alt="Total time coded since Jul 17 2017" /></a>
   </p>
