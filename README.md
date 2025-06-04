@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
     <br/>
     <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
@@ -47,7 +48,6 @@
     <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
     <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
     <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat&logoColor=white&textColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
