@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Staff Software Engineer at <a href="[Isaac](https://isaac.com.br/)">isaac</a>&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🔧
+  👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Staff Software Engineer at <a href="[Isaac](https://isaac.com.br/)">isaac</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🔧
   <br/>
   ♥️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❤️‍🔥
   <br/>
