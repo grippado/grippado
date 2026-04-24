@@ -1,13 +1,3 @@
-<div align="right">
-
-**🇬🇧 [English](#-english) · 🇧🇷 [Português](#-português)**
-
-</div>
-
----
-
-## 🇬🇧 English
-
 ### Gabriel Gripp
 
 Staff Software Engineer focused on architecture, developer experience and AI-native systems.
@@ -46,51 +36,8 @@ before that) gave me something most ICs don't have: I understand both
 what the team needs and what leadership needs to hear. I put that to use in
 RFCs, proposals and cross-team discussions.
 
----
-
-## 🇧🇷 Português
-
-### Gabriel Gripp
-
-Staff Software Engineer focado em arquitetura, developer experience e sistemas AI-native.
-15+ anos construindo produto — passei por mídia, e-commerce, fintech, mobilidade e edtech,
-com uma trajetória rara de IC → Engineering Manager → IC novamente.
-
-Hoje: Staff II no [Arco / Isaac](https://isaac.com.br), remoto do litoral sul da Bahia.
-Construindo ferramentas e um ecossistema open-core em paralelo.
-
-#### 🛠️ Em que estou trabalhando
-
-- **[claude-atlas](https://github.com/grippado/claude-atlas)** — CLI em Python para auditar setups do Claude Code. Escaneia `~/.claude/`, identifica inconsistências e sugere fixes. Construído em ~1 semana do zero ao v0.3.0 com 31 testes passando.
-- **[FlagBridge](https://flagbridge.io)** — Feature Flag Management open-core. Go API + Next.js admin + VitePress docs (EN/PT-BR). Comunidade sob Apache 2.0, edições Pro e SaaS em desenvolvimento.
-- **AI-native workflows** — Investindo pesado em Claude Code multi-agent orchestration, tmux integration e pipelines que reduzem 40–60% do overhead de contexto.
-
-#### 🎯 Stack & foco atual
-
-```yaml
-linguagens:   TypeScript, Go, Python
-frontend:     React, Next.js, Vue, Vite
-backend:      Node.js, Go, gRPC
-infra:        AWS, Fly.io, Vercel, Docker, Cloudflare
-dados:        PostgreSQL, Redis, Supabase
-interesses:   Swift + Rust (nativo macOS), sistemas distribuídos, DX
-```
-
-#### 💭 Sobre o trabalho que gosto de fazer
-
-Sistemas fullstack com foco em arquitetura de longo prazo, developer experience
-e produtividade de times. Gosto de RFCs, ADRs, observabilidade e código que não
-precisa ser reescrito em 6 meses. Gosto mais ainda de ferramentas que outros
-devs usam sem reclamar.
-
-Três anos como Engineering Manager (e cerca de quatro como Tech Lead antes
-disso) me deram uma visão que quase nenhum IC tem: entendo tanto o que o time
-precisa quanto o que a liderança precisa ouvir. Uso isso a meu favor em RFCs,
-propostas e discussões cross-team.
-
----
 
 <sub>
 grippado everywhere — <a href="https://www.linkedin.com/in/grippado/">LinkedIn</a> ·
-<a href="https://gripp.link">gripp.link</a>
+<a href="https://gripp.link">gripp.link</a> · <a href="https://x.com/grippado">x (twitter)</a>
 </sub>
