@@ -1,70 +1,96 @@
-<p align="center">
-:eyes:&nbsp;&nbsp;<b>About Me</b>&nbsp;&nbsp;:eyes:
-</p>
+<div align="right">
 
-<p align="center">
-  👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working as a Staff Software Engineer at <a href="[Isaac](https://isaac.com.br/)">isaac</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🔧
-  <br/>
-  ♥️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate with solving problems, developing stuffs and people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❤️‍🔥
-  <br/>
-  🛠️&nbsp;&nbsp;Coding since 2007 with 15+ years of experience in web development&nbsp;&nbsp;&nbsp;⚙️
-  <br/>
-  🐙&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living in Brazil 🇧🇷 with my cats, Sancho 🐈‍⬛ and Panqueca 🐈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱
-</p>
-<br/>
-<p align="center">
-  <a href="mailto:grippado@gmail.com?subject=Olá%20Gabriel%20Gripp"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/grippado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/grippado/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/grippado"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/grippado"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+**🇬🇧 [English](#-english) · 🇧🇷 [Português](#-português)**
 
-<hr/>
+</div>
 
-<p align="center">
-  <b>:computer: &nbsp;My tech stack</b>
-    
-  <br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    <br/>
-    <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&"/>
-    <img src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&"/>
-    <br/>
-    <img src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code"/>
-    <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white"/>
-  </p>
-</p>
+---
 
+## 🇬🇧 English
 
-<hr/>
+### Gabriel Gripp
 
-  <p align="center">
-    <a href="https://wakatime.com/@0d60c504-3819-4ce7-94f7-0891e4cc7b8b"><img src="https://wakatime.com/badge/user/0d60c504-3819-4ce7-94f7-0891e4cc7b8b.svg" alt="Total time coded since Jul 17 2017" /></a>
-  </p>
+Staff Software Engineer focused on architecture, developer experience and AI-native systems.
+15+ years shipping product — across media, e-commerce, fintech, mobility and edtech —
+with a rare IC → Engineering Manager → IC trajectory.
+
+Currently: Staff II at [Arco / Isaac](https://isaac.com.br), working remotely from the southern coast of Bahia, Brazil.
+Building tools and an open-core ecosystem on the side.
+
+#### 🛠️ What I'm working on
+
+- **[claude-atlas](https://github.com/grippado/claude-atlas)** — Python CLI to audit Claude Code setups. Scans `~/.claude/`, surfaces inconsistencies and suggests fixes. Built from zero to v0.3.0 in roughly one week, 31 passing tests.
+- **[FlagBridge](https://flagbridge.io)** — Open-core Feature Flag Management. Go API + Next.js admin + VitePress docs (EN/PT-BR). Community edition under Apache 2.0; Pro and SaaS editions in the works.
+- **AI-native workflows** — Heavy investment in Claude Code multi-agent orchestration, tmux integration and pipelines that cut 40–60% of context overhead.
+
+#### 🎯 Stack & current focus
+
+```yaml
+languages:   TypeScript, Go, Python
+frontend:    React, Next.js, Vite
+backend:     Node.js, Go, gRPC
+infra:       AWS, Fly.io, Vercel, Docker, Cloudflare
+data:        PostgreSQL, Redis, Supabase
+interests:   Swift + Rust (native macOS), distributed systems, DX
+```
+
+#### 💭 The work I like doing
+
+Fullstack systems with an eye for long-term architecture, developer experience
+and team productivity. I enjoy RFCs, ADRs, observability and code that doesn't
+need a rewrite six months later. I enjoy even more the tools that other devs
+use without complaining.
+
+Three years as an Engineering Manager (plus roughly four as a Tech Lead
+before that) gave me something most ICs don't have: I understand both
+what the team needs and what leadership needs to hear. I put that to use in
+RFCs, proposals and cross-team discussions.
+
+---
+
+## 🇧🇷 Português
+
+### Gabriel Gripp
+
+Staff Software Engineer focado em arquitetura, developer experience e sistemas AI-native.
+15+ anos construindo produto — passei por mídia, e-commerce, fintech, mobilidade e edtech,
+com uma trajetória rara de IC → Engineering Manager → IC novamente.
+
+Hoje: Staff II no [Arco / Isaac](https://isaac.com.br), remoto do litoral sul da Bahia.
+Construindo ferramentas e um ecossistema open-core em paralelo.
+
+#### 🛠️ Em que estou trabalhando
+
+- **[claude-atlas](https://github.com/grippado/claude-atlas)** — CLI em Python para auditar setups do Claude Code. Escaneia `~/.claude/`, identifica inconsistências e sugere fixes. Construído em ~1 semana do zero ao v0.3.0 com 31 testes passando.
+- **[FlagBridge](https://flagbridge.io)** — Feature Flag Management open-core. Go API + Next.js admin + VitePress docs (EN/PT-BR). Comunidade sob Apache 2.0, edições Pro e SaaS em desenvolvimento.
+- **AI-native workflows** — Investindo pesado em Claude Code multi-agent orchestration, tmux integration e pipelines que reduzem 40–60% do overhead de contexto.
+
+#### 🎯 Stack & foco atual
+
+```yaml
+linguagens:   TypeScript, Go, Python
+frontend:     React, Next.js, Vite
+backend:      Node.js, Go, gRPC
+infra:        AWS, Fly.io, Vercel, Docker, Cloudflare
+dados:        PostgreSQL, Redis, Supabase
+interesses:   Swift + Rust (nativo macOS), sistemas distribuídos, DX
+```
+
+#### 💭 Sobre o trabalho que gosto de fazer
+
+Sistemas fullstack com foco em arquitetura de longo prazo, developer experience
+e produtividade de times. Gosto de RFCs, ADRs, observabilidade e código que não
+precisa ser reescrito em 6 meses. Gosto mais ainda de ferramentas que outros
+devs usam sem reclamar.
+
+Três anos como Engineering Manager (e cerca de quatro como Tech Lead antes
+disso) me deram uma visão que quase nenhum IC tem: entendo tanto o que o time
+precisa quanto o que a liderança precisa ouvir. Uso isso a meu favor em RFCs,
+propostas e discussões cross-team.
+
+---
+
+<sub>
+grippado everywhere — <a href="https://www.linkedin.com/in/grippado/">LinkedIn</a> ·
+<a href="https://gripp.link">gripp.link</a>
+</sub>
