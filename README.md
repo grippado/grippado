@@ -27,7 +27,7 @@ Building tools and an open-core ecosystem on the side.
 
 ```yaml
 languages:   TypeScript, Go, Python
-frontend:    React, Next.js, Vite
+frontend:    React, Next.js, Vue, Vite
 backend:     Node.js, Go, gRPC
 infra:       AWS, Fly.io, Vercel, Docker, Cloudflare
 data:        PostgreSQL, Redis, Supabase
@@ -69,7 +69,7 @@ Construindo ferramentas e um ecossistema open-core em paralelo.
 
 ```yaml
 linguagens:   TypeScript, Go, Python
-frontend:     React, Next.js, Vite
+frontend:     React, Next.js, Vue, Vite
 backend:      Node.js, Go, gRPC
 infra:        AWS, Fly.io, Vercel, Docker, Cloudflare
 dados:        PostgreSQL, Redis, Supabase
