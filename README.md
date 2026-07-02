@@ -10,7 +10,7 @@ Building tools and an open-core ecosystem on the side.
 #### 🛠️ What I'm working on
 
 - **[claude-atlas](https://github.com/grippado/claude-atlas)** — Python CLI to audit Claude Code setups. Scans `~/.claude/`, surfaces inconsistencies and suggests fixes. Built from zero to v0.3.0 in roughly one week, 31 passing tests.
-- **[FlagBridge](https://flagbridge.io)** — Open-core Feature Flag Management. Go API + Next.js admin + VitePress docs (EN/PT-BR). Community edition under Apache 2.0; Pro and SaaS editions in the works.
+- **[aitop](https://github.com/grippado/aitop)** — A live, read-only TUI monitor for AI coding agents (Claude Code, Codex CLI, Cursor) and their contexts — cards per session, not a resource monitor.
 - **AI-native workflows** — Heavy investment in Claude Code multi-agent orchestration, tmux integration and pipelines that cut 40–60% of context overhead.
 
 #### 🎯 Stack & current focus
