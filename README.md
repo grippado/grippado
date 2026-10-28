@@ -1,43 +1,42 @@
 ### Gabriel Gripp
 
-Staff Software Engineer focused on architecture, developer experience and AI-native systems.
-15+ years shipping product — across media, e-commerce, fintech, mobility and edtech —
-with a rare IC → Engineering Manager → IC trajectory.
+Staff Software Engineer building agentic platforms that change how engineering teams work, and instrumenting them so the effect shows up in numbers.
 
-Currently: Staff II at [Arco / Isaac](https://isaac.com.br), working remotely from the southern coast of Bahia, Brazil.
-Building tools and an open-core ecosystem on the side.
+15+ years across fintech, edtech, e-commerce, mobility and media, on an IC → Tech Lead → Engineering Manager → IC path by choice.
+Currently Staff II at [Arco](https://www.arcoeducacao.com.br), on AI Productivity, the team that owns engineering's internal tooling. Remote from the southern coast of Bahia, Brazil.
 
-#### 🛠️ What I'm working on
+#### 🛠️ Open source
 
-- **[claude-atlas](https://github.com/grippado/claude-atlas)** — Python CLI to audit Claude Code setups. Scans `~/.claude/`, surfaces inconsistencies and suggests fixes. Built from zero to v0.3.0 in roughly one week, 31 passing tests.
-- **[aitop](https://github.com/grippado/aitop)** — A live, read-only TUI monitor for AI coding agents (Claude Code, Codex CLI, Cursor) and their contexts — cards per session, not a resource monitor.
-- **AI-native workflows** — Heavy investment in Claude Code multi-agent orchestration, tmux integration and pipelines that cut 40–60% of context overhead.
+| Project | What it is |
+|---|---|
+| **[flux](https://github.com/grippado/flux)** | The full agentic work cycle, idea to merge, without switching tools: refine, issue, build, review, iterate, land. Human at every gate. Plugin for Claude Code, Cursor and Codex. [Site](https://grippado.github.io/flux/) |
+| **[aitop](https://github.com/grippado/aitop)** | A live, read-only TUI for AI coding agents (Claude Code, Codex, Cursor, opencode): one card per session, real context and token readings, never a fabricated number. Go. |
+| **[claude-atlas](https://github.com/grippado/claude-atlas)** | Audits a Claude Code setup: duplicate agents, colliding triggers, shadowed config, orphaned CLAUDE.md files. Python, `pip install claude-atlas`. |
+| **[violeet](https://github.com/grippado/violeet)** | A native macOS terminal for running several agents as tabs, with blocked permission requests answerable from the sidebar. Rust daemon + SwiftUI. [Site](https://grippado.github.io/violeet/) |
 
-#### 🎯 Stack & current focus
+#### 📈 What I'm proving at work
+
+- An orchestrator + specialists pattern per repository: a repo owner agent dispatches specialist auditors in parallel and synthesizes one report. 6 repos, 28 specialists.
+- An Agent Readiness Score that measures whether a repo is ready to receive agents.
+- Agent telemetry through OpenTelemetry → Postgres → Metabase. Over the last three months, 62% of my agent sessions ran unattended and estimated cost per session dropped 65%.
+- 290 pull requests across 15 repositories since May, 87% merged, almost half of them platform work consumed by other teams.
+
+#### 🎯 Stack
 
 ```yaml
-languages:   TypeScript, Go, Python
-frontend:    React, Next.js, Vue, Vite
-backend:     Node.js, Go, gRPC
-infra:       AWS, Fly.io, Vercel, Docker, Cloudflare
-data:        PostgreSQL, Redis, Supabase
-interests:   Swift + Rust (native macOS), distributed systems, DX
+languages:  TypeScript, Go, Python, Rust, Swift
+agents:     Claude Code, Codex, Cursor, MCP, subagent orchestration
+backend:    Node.js, Go, gRPC
+frontend:   React, Next.js, Vue
+infra:      AWS, Docker, Cloudflare, Vercel
+data:       PostgreSQL, Redis, OpenTelemetry, Metabase
 ```
 
-#### 💭 The work I like doing
+#### 💭 How I work
 
-Fullstack systems with an eye for long-term architecture, developer experience
-and team productivity. I enjoy RFCs, ADRs, observability and code that doesn't
-need a rewrite six months later. I enjoy even more the tools that other devs
-use without complaining.
-
-Three years as an Engineering Manager (plus roughly four as a Tech Lead
-before that) gave me something most ICs don't have: I understand both
-what the team needs and what leadership needs to hear. I put that to use in
-RFCs, proposals and cross-team discussions.
-
+RFCs, ADRs, observability, and code that doesn't need a rewrite six months later. Years as an Engineering Manager taught me to talk numbers with product and lead without authority; I bring that back into every cross-team proposal.
 
 <sub>
-grippado everywhere — <a href="https://www.linkedin.com/in/grippado/">LinkedIn</a> ·
+grippado everywhere · <a href="https://www.linkedin.com/in/grippado/">LinkedIn</a> ·
 <a href="https://gripp.link">gripp.link</a> · <a href="https://x.com/grippado">x (twitter)</a>
 </sub>
